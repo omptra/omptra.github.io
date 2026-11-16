@@ -1,6 +1,6 @@
 # omptra.github.io
 
-My personal portfolio as a 2nd year Robotics & AI student. This site combines modern web aesthetics with a high-tech "cybernetic" theme.
+My personal portfolio as a 3rd year Robotics & AI student. This site combines modern web aesthetics with a high-tech "cybernetic" theme.
 
 🔗 **Live:** [omptra.github.io](https://omptra.github.io)
 
